@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+		<package name="com.ssafy.dto" />
+	</typeAliases>
+	<mappers>
+	</mappers>
+</configuration>
+
+
+<!-- Type Alias 등록 하세요 -->
+<!-- <typeAlias --> 
+<!-- 	type="com.ssafy.product.dto.Product" alias="product"/> -->
+<!-- Type의 패키지 입력(dto package) -->

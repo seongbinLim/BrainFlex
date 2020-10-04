@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mappers/hrm.xml -->
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.dao.NoticeDao"> <!-- mybatis는 namespace필수!! -->
+
+	<!-- 공지사항 추가 -->
+	<insert id="writeNotice">
+		insert into notice( writer, title, contents, time)
+		values( #{writer}, #{title}, #{contents}, now())
+	</insert>
+
+	<!-- 공지사항 수정 -->
+	<update id="updateNotice">
+		update notice set
+		writer=#{writer}, title=#{title}, contents=#{contents}, time=now()
+		where no = #{no}
+	</update>
+
+	<!-- 공지사항 삭제 -->
+	<delete id="deleteNotice">
+		delete from notice where no = #{no}
+	</delete>
+
+	<!-- 공지사항 조회 -->
+	<select id="selectNotice" resultType="NoticeDto">
+		select *
+		from notice
+		where no = #{no}
+	</select>
+	
+	<!-- 공지사항 전체 조회 -->
+	<select id="selectAllNotice" resultType="NoticeDto">
+		select *
+		from notice
+		order by time desc
+	</select>
+	
+	<!-- no 확인 -->
+	<select id="chkno" resultType="Integer">
+		select count(*)
+		from notice
+		where no = #{no}
+	</select>
+</mapper>

@@ -1,0 +1,580 @@
+﻿정답여부,문제번호,문제이름
+true,1000,A+B
+true,1001,A-B
+true,1002,터렛
+true,1003,피보나치 함수
+true,1004,어린 왕자
+true,1005,ACM Craft
+true,1008,A/B
+true,1009,분산처리
+true,1010,다리 놓기
+true,1011,Fly me to the Alpha Centauri
+true,1012,유기농 배추
+true,1016,제곱 ㄴㄴ 수
+true,1017,소수 쌍
+true,1024,수열의 합
+true,1026,보물
+true,1029,그림 교환
+true,1032,명령 프롬프트
+true,1037,약수
+true,1038,감소하는 수
+true,1040,정수
+true,1065,한수
+true,1068,트리
+true,1080,행렬
+true,1081,합
+true,1086,박성원
+true,1100,하얀 칸
+true,1102,발전소
+true,1110,더하기 사이클
+true,1111,IQ Test
+true,1114,통나무 자르기
+true,1149,RGB거리
+true,1152,단어의 개수
+true,1157,단어 공부
+true,1158,요세푸스 문제
+true,1159,농구 경기
+true,1162,도로포장
+true,1182,부분수열의 합
+true,1197,최소 스패닝 트리
+true,1199,오일러 회로
+true,1202,보석 도둑
+true,1212,8진수 2진수
+true,1219,오민식의 고민
+true,1225,이상한 곱셈
+true,1234,크리스마스 트리
+true,1237,정ㅋ벅ㅋ
+true,1238,파티
+true,1256,사전
+true,1260,DFS와 BFS
+true,1261,알고스팟
+true,1268,임시 반장 정하기
+true,1275,커피숍2
+true,1280,나무 심기
+true,1292,쉽게 푸는 문제
+true,1305,광고
+true,1312,소수
+true,1315,RPG
+true,1325,효율적인 해킹
+true,1328,고층 빌딩
+true,1344,축구
+true,1351,무한 수열
+true,1365,꼬인 전깃줄
+true,1389,케빈 베이컨의 6단계 법칙
+true,1395,스위치
+true,1402,아무래도이문제는A번난이도인것같다
+true,1413,박스 안의 열쇠
+true,1415,사탕
+true,1420,학교 가지마!
+true,1439,뒤집기
+true,1448,삼각형 만들기
+true,1459,걷기
+true,1461,도서관
+true,1463,1로 만들기
+true,1492,합
+true,1495,기타리스트
+true,1504,특정한 최단 경로
+true,1520,내리막 길
+true,1521,랜덤 소트
+true,1535,안녕
+true,1541,잃어버린 괄호
+true,1546,평균
+true,1555,소수 만들기
+true,1562,계단 수
+true,1574,룩 어택
+true,1605,반복 부분문자열
+true,1614,영식이의 손가락
+true,1630,오민식
+true,1633,최고의 팀 만들기
+true,1644,소수의 연속합
+true,1647,도시 분할 계획
+true,1648,격자판 채우기
+true,1654,랜선 자르기
+true,1660,캡틴 이다솜
+true,1671,상어의 저녁식사
+true,1672,DNA 해독
+true,1679,숫자놀이
+true,1695,팰린드롬 만들기
+true,1697,숨바꼭질
+true,1699,제곱수의 합
+true,1700,멀티탭 스케줄링
+true,1708,볼록 껍질
+true,1715,카드 정렬하기
+true,1717,집합의 표현
+true,1720,타일 코드
+true,1747,소수&팰린드롬
+true,1750,서로소의 개수
+true,1753,최단경로
+true,1766,문제집
+true,1786,찾기
+true,1787,문자열의 주기 예측
+true,1788,피보나치 수의 확장
+true,1789,수들의 합
+true,1793,타일링
+true,1804,랩싸기
+true,1854,K번째 최단경로 찾기
+true,1866,택배
+true,1867,돌멩이 제거
+true,1874,스택 수열
+true,1890,점프
+true,1912,연속합
+true,1913,달팽이
+true,1915,가장 큰 정사각형
+true,1920,수 찾기
+true,1922,네트워크 연결
+true,1927,최소 힙
+true,1931,회의실배정
+true,1932,정수 삼각형
+true,1937,욕심쟁이 판다
+true,1947,선물 전달
+true,1949,우수 마을
+true,1958,LCS 3
+true,1963,소수 경로
+true,1964,"오각형, 오각형, 오각형…"
+true,1965,상자넣기
+true,1966,프린터 큐
+true,1991,트리 순회
+true,1992,쿼드트리
+true,2004,조합 0의 개수
+true,2011,암호코드
+true,2012,등수 매기기
+true,2014,소수의 곱
+true,2033,반올림
+true,2042,구간 합 구하기
+true,2066,카드놀이
+true,2091,동전
+true,2098,외판원 순회
+true,2133,타일 채우기
+true,2150,Strongly Connected Component
+true,2154,수 이어 쓰기 3
+true,2156,포도주 시식
+true,2159,케익 배달
+true,2163,초콜릿 자르기
+true,2164,카드2
+true,2167,2차원 배열의 합
+true,2169,로봇 조종하기
+true,2170,선 긋기
+true,2178,미로 탐색
+true,2188,축사 배정
+true,2193,이친수
+true,2201,이친수 찾기
+true,2204,도비의 난독증 테스트
+true,2206,벽 부수고 이동하기
+true,2213,트리의 독립집합
+true,2216,문자열과 점수
+true,2225,합분해
+true,2228,구간 나누기
+true,2250,트리의 높이와 너비
+true,2252,줄 세우기
+true,2287,모노디지털 표현
+true,2291,Sequence
+true,2293,동전 1
+true,2294,동전 2
+true,2300,기지국
+true,2302,극장 좌석
+true,2306,유전자
+true,2309,일곱 난쟁이
+true,2342,Dance Dance Revolution
+true,2352,반도체 설계
+true,2357,최솟값과 최댓값
+true,2358,평행선
+true,2381,최대 거리
+true,2413,비슷한 순열
+true,2414,게시판 구멍 막기
+true,2435,기상청 인턴 신현수
+true,2436,공약수
+true,2438,별 찍기 - 1
+true,2439,별 찍기 - 2
+true,2447,별 찍기 - 10
+true,2448,별 찍기 - 11
+true,2449,전구
+true,2461,대표 선수
+true,2463,비용
+true,2465,줄 세우기
+true,2472,체인점
+true,2482,색상환
+true,2485,가로수
+true,2493,탑
+true,2504,괄호의 값
+true,2512,예산
+true,2515,전시장
+true,2517,달리기
+true,2518,회전 테이블
+true,2531,회전 초밥
+true,2532,먹이사슬
+true,2533,사회망 서비스(SNS)
+true,2536,버스 갈아타기
+true,2550,전구
+true,2560,짚신벌레
+true,2565,전깃줄
+true,2568,전깃줄 - 2
+true,2570,비숍2
+true,2579,계단 오르기
+true,2581,소수
+true,2583,영역 구하기
+true,2589,보물섬
+true,2602,돌다리 건너기
+true,2605,줄 세우기
+true,2616,소형기관차
+true,2618,경찰차
+true,2623,음악프로그램
+true,2624,동전 바꿔주기
+true,2629,양팔저울
+true,2631,줄세우기
+true,2643,색종이 올려 놓기
+true,2644,촌수계산
+true,2653,안정된 집단
+true,2655,가장높은탑쌓기
+true,2659,십자카드 문제
+true,2660,회장뽑기
+true,2661,좋은수열
+true,2662,기업투자
+true,2666,벽장문의 이동
+true,2667,단지번호붙이기
+true,2668,숫자고르기
+true,2669,직사각형 네개의 합집합의 면적 구하기
+true,2670,연속부분최대곱
+true,2671,잠수함식별
+true,2672,여러 직사각형의 전체 면적 구하기
+true,2698,인접한 비트의 개수
+true,2718,타일 채우기
+true,2721,삼각수의 합
+true,2747,피보나치 수
+true,2749,피보나치 수 3
+true,2750,수 정렬하기
+true,2758,로또
+true,2798,블랙잭
+true,2805,나무 자르기
+true,2812,크게 만들기
+true,2820,자동차 공장
+true,2839,설탕 배달
+true,2842,집배원 한상덕
+true,2854,문제 출제
+true,2865,나는 위대한 슈퍼스타K
+true,2869,달팽이는 올라가고 싶다
+true,2875,대회 or 인턴
+true,2877,4와 7
+true,2878,캔디캔디
+true,2879,코딩은 예쁘게
+true,2881,산책길
+true,2884,알람 시계
+true,2887,행성 터널
+true,2890,카약
+true,2909,캔디 구매
+true,2920,음계
+true,2923,숫자 게임
+true,2934,LRH 식물
+true,2941,크로아티아 알파벳
+true,2942,퍼거슨과 사과
+true,2953,나는 요리사다
+true,2960,에라토스테네스의 체
+true,2981,검문
+true,2985,세 수
+true,2992,크면서 작은 수
+true,2997,네 번째 수
+true,3000,직각 삼각형
+true,3006,터보소트
+true,3040,백설 공주와 일곱 난쟁이
+true,3053,택시 기하학
+true,3055,탈출
+true,3076,상근이의 체스판
+true,3079,입국심사
+true,3109,빵집
+true,3372,보드 점프
+true,3392,화성 지도
+true,3644,그래프 매칭
+true,3653,영화 수집
+true,3745,오름세
+true,3758,KCPC
+true,3896,소수 사이 수열
+true,3908,서로 다른 소수의 합
+true,3980,선발 명단
+true,4095,최대 정사각형
+true,4195,친구 네트워크
+true,4344,평균은 넘겠지
+true,4386,별자리 만들기
+true,4435,중간계 전쟁
+true,4485,녹색 옷 입은 애가 젤다지?
+true,4587,이집트 분수
+true,4673,셀프 넘버
+true,4716,풍선
+true,4883,삼각 그래프
+true,4949,균형잡힌 세상
+true,4999,아!
+true,5032,탄산 음료
+true,5177,출력 형식이 잘못되었습니다
+true,5214,환승
+true,5389,제곱근 작도
+true,5527,전구 장식
+true,5557,1학년
+true,5582,공통 부분 문자열
+true,5585,거스름돈
+true,5597,과제 안 내신 분..?
+true,5704,팬그램
+true,5719,거의 최단 경로
+true,5721,사탕 줍기 대회
+true,6086,최대 유량
+true,6131,완전 제곱수
+true,6144,Charm Bracelet
+true,6236,용돈 관리
+true,6246,풍선 놀이
+true,6322,직각 삼각형의 두 변
+true,6549,히스토그램에서 가장 큰 직사각형
+true,6588,골드바흐의 추측
+true,6591,이항 쇼다운
+true,6593,상범 빌딩
+true,6988,타일 밟기
+true,7287,등록
+true,7476,최대 공통 증가 수열
+true,7562,나이트의 이동
+true,7570,줄 세우기
+true,7578,공장
+true,7579,앱
+true,7770,아즈텍 피라미드
+true,7983,내일 할거야
+true,8320,직사각형을 만드는 방법
+true,8394,악수
+true,8741,이진수 합
+true,8892,팰린드롬
+true,8895,막대 배치
+true,8907,네온 사인
+true,8949,대충 더해
+true,8974,희주의 수학시험
+true,8980,택배
+true,8983,사냥꾼
+true,8984,막대기
+true,9012,괄호
+true,9084,동전
+true,9095,"1, 2, 3 더하기"
+true,9205,맥주 마시면서 걸어가기
+true,9243,파일 완전 삭제
+true,9248,Suffix Array
+true,9251,LCS
+true,9345,디지털 비디오 디스크(DVDs)
+true,9370,미확인 도착지
+true,9372,상근이의 여행
+true,9457,기하학문양
+true,9461,파도반 수열
+true,9463,순열 그래프
+true,9470,Strahler 순서
+true,9489,사촌
+true,9494,Text Roll
+true,9498,시험 성적
+true,9520,NP-hard
+true,9575,행운의 수
+true,9576,책 나눠주기
+true,9613,GCD 합
+true,9625,BABBA
+true,9661,돌 게임 7
+true,10101,삼각형 외우기
+true,10159,저울
+true,10164,격자상의 경로
+true,10165,버스 노선
+true,10166,관중석
+true,10172,개
+true,10214,Baseball
+true,10216,Count Circle Groups
+true,10217,KCM Travel
+true,10250,ACM 호텔
+true,10251,운전 면허 시험
+true,10252,그리드 그래프
+true,10253,헨리
+true,10272,현상금 사냥꾼 김정은
+true,10413,반복되는 부분 문자열
+true,10422,괄호
+true,10430,나머지
+true,10610,30
+true,10775,공항
+true,10800,컬러볼
+true,10803,정사각형 만들기
+true,10805,L 모양의 종이 자르기
+true,10815,숫자 카드
+true,10817,세 수
+true,10828,스택
+true,10835,카드게임
+true,10837,동전 게임
+true,10844,쉬운 계단 수
+true,10845,큐
+true,10868,최솟값
+true,10869,사칙연산
+true,10871,X보다 작은 수
+true,10874,이교수님의 시험
+true,10973,이전 순열
+true,10991,별 찍기 - 16
+true,10997,별 찍기 - 22
+true,10999,구간 합 구하기 2
+true,11003,최솟값 찾기
+true,11048,이동하기
+true,11049,행렬 곱셈 순서
+true,11053,가장 긴 증가하는 부분 수열
+true,11054,가장 긴 바이토닉 부분 수열
+true,11055,가장 큰 증가 부분 수열
+true,11057,오르막 수
+true,11062,카드 게임
+true,11066,파일 합치기
+true,11068,회문인 수
+true,11070,피타고라스 기댓값
+true,11279,최대 힙
+true,11375,열혈강호
+true,11376,열혈강호 2
+true,11377,열혈강호 3
+true,11378,열혈강호 4
+true,11399,ATM
+true,11401,이항 계수 3
+true,11403,경로 찾기
+true,11404,플로이드
+true,11405,책 구매하기
+true,11438,LCA 2
+true,11497,통나무 건너뛰기
+true,11505,구간 곱 구하기
+true,11568,민균이의 계략
+true,11571,분수를 소수로
+true,11576,Base Conversion
+true,11609,Class Time
+true,11659,구간 합 구하기 4
+true,11689,"GCD(n, k) = 1"
+true,11718,그대로 출력하기
+true,11719,그대로 출력하기 2
+true,11724,연결 요소의 개수
+true,11726,2×n 타일링
+true,11727,2×n 타일링 2
+true,11728,배열 합치기
+true,11799,Game of Peace
+true,11800,Tawla
+true,12015,가장 긴 증가하는 부분 수열 2
+true,12779,상품 is 뭔들
+true,12837,가계부 (Hard)
+true,12844,XOR
+true,12849,본대 산책
+true,12850,본대 산책2
+true,12869,뮤탈리스크
+true,13171,A
+true,13199,치킨 먹고 싶다
+true,13206,Professor KCM
+true,13251,조약돌 꺼내기
+true,13258,복권 + 은행
+true,13297,Quick Estimates
+true,13305,주유소
+true,13306,트리
+true,13325,이진 트리
+true,13328,Message Passing
+true,13333,Q-인덱스
+true,13334,철로
+true,13335,트럭
+true,13344,Chess Tournament
+true,13398,연속합 2
+true,13411,하늘에서 정의가 빗발친다!
+true,13413,오셀로 재배치
+true,13414,수강신청
+true,13415,정렬 게임
+true,13416,주식 투자
+true,13417,카드 문자열
+true,13418,학교 탐방하기
+true,13422,도둑
+true,13423,Three Dots
+true,13424,비밀 모임
+true,13463,Brexit
+true,13464,Bridge Automation
+true,13469,Older Brother
+true,13472,Sticky Situation
+true,13701,중복 제거
+true,13702,이상한 술집
+true,13728,행렬식과 GCD
+true,13751,Barbells
+true,14002,가장 긴 증가하는 부분 수열 4
+true,14382,숫자세는 양 (Large)
+true,14430,자원 캐기
+true,14445,케이크(?) 자르기
+true,14501,퇴사
+true,14502,연구소
+true,14505,팰린드롬 개수 구하기 (Small)
+true,14517,팰린드롬 개수 구하기 (Large)
+true,14527,Paired Up
+true,14528,Bovine Genomics (Silver)
+true,14568,2017 연세대학교 프로그래밍 경시대회
+true,14569,시간표 짜기
+true,14572,스터디 그룹
+true,14578,영훈이의 색칠공부
+true,14583,이음줄
+true,14585,사수빈탕
+true,14646,욱제는 결정장애야!!
+true,14697,방 배정하기
+true,14727,퍼즐 자르기
+true,14728,벼락치기
+true,14729,칠무해
+true,14730,謎紛芥索紀 (Small)
+true,14731,謎紛芥索紀 (Large)
+true,14732,행사장 대여 (Small)
+true,14733,행사장 대여 (Large)
+true,14746,Closest Pair
+true,14753,MultiMax
+true,14848,정수 게임
+true,14868,문명
+true,14935,FA
+true,15005,Collatz Conjecture
+true,15087,DRM Messages
+true,15092,Sheba’s Amoebas
+true,15119,Purple Rain
+true,15428,Imperfect GPS
+true,15480,LCA와 쿼리
+true,15483,최소 편집
+true,15509,Xayahh-Rakann at Moloco (Hard)
+true,15719,중복된 숫자
+true,15760,Out of Sorts
+true,15761,Lemonade Line
+true,15788,밸런스 스톤
+true,15791,세진이의 미팅
+true,15897,잘못 구현한 에라토스테네스의 체
+true,15898,피아의 아틀리에 ~신비한 대회의 연금술사~
+true,15904,UCPC는 무엇의 약자일까?
+true,15975,화살표 그리기
+true,16059,Überwatch
+true,16172,나는 친구가 적다 (Large)
+true,16282,Black Chain
+true,16459,독서의 계절
+true,16464,가주아
+true,16465,Bookend
+true,16469,소년 점프
+true,16719,ZOAC
+true,16723,원영이는 ZOAC과 영원하고 싶다
+true,17297,Messi Gimossi
+true,17367,공교육 도박
+true,17391,무한부스터
+true,17396,백도어
+true,17425,약수의 합
+true,17528,Two Machines
+true,17950,스노우볼
+true,17954,투튜브
+false,1180,선인장의 지름
+false,1298,노트북의 주인을 찾아서
+false,1494,절댓값 수열
+false,1701,Cubeditor
+false,1726,로봇
+false,1914,하노이 탑
+false,1976,여행 가자
+false,2172,팰린드롬 경로
+false,2261,가장 가까운 두 점
+false,2499,의좋은 형제
+false,2557,Hello World
+false,2673,교차하지 않는 원의 현들의 최대집합
+false,2957,이진 탐색 트리
+false,3012,올바른 괄호 문자열
+false,4354,문자열 제곱
+false,5419,북서풍
+false,5615,아파트 임대
+false,6064,카잉 달력
+false,9426,중앙값 측정
+false,9521,색칠 공부
+false,10840,구간 성분
+false,10875,뱀
+false,10945,랜덤 게임~~~
+false,11286,절댓값 힙
+false,11657,타임머신
+false,13202,피자 배치
+false,13470,Programming Tutors
+false,13700,완전 범죄
+false,14389,4블록
+false,15464,The Bovine Shuffle
+false,15643,Yee
+false,15802,타노스
+false,17947,상남자 곽철용

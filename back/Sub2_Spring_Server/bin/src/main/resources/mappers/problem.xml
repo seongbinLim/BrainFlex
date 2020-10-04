@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.dao.ProblemDao"> <!-- mybatis는 namespace필수!! -->
+	
+	<!-- 일단 프론트 화면구성을 위해 문제 3개만 던져주기 -->
+	<select id="searchtest" resultType="ProblemDto">
+		select * from problem limit 3
+	</select>
+	
+	
+	<!-- 문제 총 개수 -->
+	<select id="selectTotalCount" resultType="Integer">
+        SELECT COUNT(*) FROM PROBLEM
+    </select>
+	
+	
+	<!-- 일단 프론트 화면구성을 위해 문제 3개만 던져주기 -->
+	<select id="selectProblemList" resultType="ProblemDto">
+		select DISTINCT * from problem
+        <where>
+            <if test="word != null">
+                classitication like CONCAT('%',#{word},'%')
+            </if>
+        </where>
+        ORDER BY number ASC
+        LIMIT #{pageHelper.startRow}, #{pageHelper.linePerPage}
+	</select>
+	
+	
+	
+	
+
+</mapper>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.dao.UserDao"> <!-- mybatis는 namespace필수!! -->
+	<!-- 로그인 : 로그인을 왜 get으로하지? 그거떄문에 전부 문제였던  리턴 타입때문에 그랬던것-->
+	<select id="login" resultType="Integer">
+		select count(*) 
+		from user
+		where email = #{email} and pw = #{pw}
+	</select>
+	
+	<!-- 회원가입 -->
+	<insert id="insert">
+		insert into user(id, pw, email)
+		values(#{id}, #{pw}, #{email})
+	</insert>
+	
+	<!-- 회원수정 -->
+	<update id="update">
+		update user set email = #{email}
+		where id = #{id}
+	</update>
+	
+	<!-- 회원 삭제 -->
+	<delete id="delete">
+		delete from user where id = #{id}
+	</delete>
+	
+	<!-- 회원 전체 검색 -->
+	<select id="searchAll" resultType="UserDto">
+		select * from user
+	</select>
+
+	<!-- id 확인 -->
+	<select id="chkid" resultType="Integer">
+		select count(*)
+		from user
+		where id
+		=#{id}
+	</select>
+	
+	<!-- 회원 정보 조회 -->
+	<select id="select" resultType="UserDto">
+		select *
+		from user
+		where email =#{email}
+	</select>
+
+</mapper> 

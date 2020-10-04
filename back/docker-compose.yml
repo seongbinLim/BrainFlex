@@ -1,0 +1,35 @@
+version: "3"
+
+services: 
+    reverse_proxy:
+        image: nginx
+        container_name: reverse_proxy
+        ports:
+            - 80:80
+        volumes:
+            - ./nginx/conf.d:/etc/nginx/conf.d
+        depends_on: 
+            - spring
+        networks:
+            - default
+            - back_net
+
+    flask:
+        image: brainflex/flask_test
+        container_name: flask
+        expose:
+            - 5000
+        networks:
+            - back_net
+
+    spring:
+        image: brainflex/spring_test
+        container_name: spring
+        expose:
+            - 8080
+        networks:
+            - back_net
+
+networks:
+    back_net:
+        driver: bridge

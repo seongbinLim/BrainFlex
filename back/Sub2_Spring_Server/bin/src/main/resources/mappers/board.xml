@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mappers/hrm.xml -->
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.dao.BoardDao"> <!-- mybatis는 namespace필수!! -->
+
+	<!-- 게시글 추가 -->
+	<insert id="writeBoard">
+		insert into board(id, title, contents, time)
+		values( #{id}, #{title}, #{contents}, now())
+	</insert>
+
+	<!-- 게시글 수정 -->
+	<update id="updateBoard">
+		update board set
+		id=#{id}, title=#{title}, contents=#{contents}, time=now()
+		where no = #{no}
+	</update>
+
+	<!-- 게시글 삭제 -->
+	<delete id="deleteBoard">
+		delete from board where no = #{no}
+	</delete>
+
+	<!-- 게시글 조회 -->
+	<select id="searchBoard" resultType="BoardDto">
+		select *
+		from board
+		where no = #{no}
+	</select>
+	
+	<!-- 게시글 전체 조회 -->
+	<select id="searchAllBoard" resultType="BoardDto">
+		select *
+		from board
+		order by time desc
+	</select>
+	
+	<!-- board no 확인 -->
+	<select id="chkno" resultType="Integer">
+		select count(*)
+		from board
+		where no =#{no}
+	</select>
+	
+	<!-- reply no 확인 -->
+	<select id="chkreply_no" resultType="Integer">
+		select count(*)
+		from reply_board
+		where no =#{reply_no}
+	</select>
+</mapper>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mappers/hrm.xml -->
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.dao.ReplyDao"> <!-- mybatis는 namespace필수!! -->
+
+	<!-- 댓글 추가 -->
+	<insert id="writeReply">
+		insert into reply_board(board_no, id, contents,
+		time)
+		values(#{board_no}, #{id}, #{contents}, now())
+	</insert>
+
+	<!-- 댓글 수정 -->
+	<update id="updateReply">
+		update reply_board set
+		id=#{id}, board_no=#{board_no},
+		contents=#{contents}, time=now()
+		where no = #{no}
+	</update>
+
+	<!-- 댓글 전체 삭제 -->
+	<delete id="deleteAllReply">
+		delete from reply_board where board_no = #{no}
+	</delete>
+
+	<!-- 댓글 삭제 -->
+	<delete id="deleteReply">
+		delete from reply_board where board_no = #{board_no}
+		AND no = #{reply_no}
+	</delete>
+
+	<!-- 댓글 조회 -->
+	<select id="searchReply" resultType="ReplyDto">
+		select *
+		from reply_board
+		where
+		no = #{no}
+	</select>
+
+	<select id="searchAllreply" resultType="ReplyDto">
+		select *
+		from reply_board
+		where board_no = #{no}
+		order by time desc
+	</select>
+
+
+</mapper>

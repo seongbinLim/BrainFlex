@@ -1,0 +1,6 @@
+밝은 하늘색      blue lighten-4  #BBDEFB 
+적당한 하늘색      blue lighten-3  #90CAF9
+밝은 회색     grey lighten-5  #F5F5F5
+적당한 회색    grey lighten-3  #EEEEEE
+파란색     blue darken-1    #1E88E5
+남색    blue-grey darken-4    #263238

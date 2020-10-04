@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.dao.CSCReportDao"> <!-- mybatis는 namespace필수!! -->
+	
+	
+	<select id="getreport" resultType="CSCReportDto">
+		select classitication, count(problem.number) as count 
+		from problem join userproblem on problem.number = userproblem.number
+		<if test= "true_false == 1">
+			where userproblem.result = 1 and id = #{id}
+		</if>
+		<if test= "true_false == 0">
+			where userproblem.result = 0 and id = #{id}
+		</if>
+		group by classitication;
+	</select>
+	
+	
+	<select id="getproblem_numbers" resultType="Integer">
+		select number 
+		from userproblem
+		<if test= "true_false == 1">
+			where result = 1 and id = #{id}
+		</if>
+		<if test= "true_false == 0">
+		where result = 0 and id = #{id}
+		</if>
+	</select>
+	
+	
+	
+ 
+</mapper>

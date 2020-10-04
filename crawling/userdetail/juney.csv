@@ -1,0 +1,423 @@
+﻿정답여부,문제번호,문제이름
+true,1000,A+B
+true,1001,A-B
+true,1003,피보나치 함수
+true,1004,어린 왕자
+true,1006,습격자 초라기
+true,1016,제곱 ㄴㄴ 수
+true,1017,소수 쌍
+true,1026,보물
+true,1073,도미노
+true,1074,Z
+true,1085,직사각형에서 탈출
+true,1102,발전소
+true,1107,리모컨
+true,1126,같은 탑
+true,1158,요세푸스 문제
+true,1162,도로포장
+true,1167,트리의 지름
+true,1185,유럽여행
+true,1197,최소 스패닝 트리
+true,1199,오일러 회로
+true,1202,보석 도둑
+true,1226,국회
+true,1237,정ㅋ벅ㅋ
+true,1256,사전
+true,1260,DFS와 BFS
+true,1275,커피숍2
+true,1289,트리의 가중치
+true,1305,광고
+true,1328,고층 빌딩
+true,1365,꼬인 전깃줄
+true,1377,버블 소트
+true,1395,스위치
+true,1396,크루스칼의 공
+true,1406,에디터
+true,1413,박스 안의 열쇠
+true,1431,시리얼 번호
+true,1463,1로 만들기
+true,1476,날짜 계산
+true,1495,기타리스트
+true,1509,팰린드롬 분할
+true,1520,내리막 길
+true,1557,제곱 ㄴㄴ
+true,1592,영식이와 친구들
+true,1612,가지고 노는 1
+true,1615,교차개수세기
+true,1669,멍멍이 쓰다듬기
+true,1693,트리 색칠하기
+true,1695,팰린드롬 만들기
+true,1697,숨바꼭질
+true,1699,제곱수의 합
+true,1701,Cubeditor
+true,1708,볼록 껍질
+true,1717,집합의 표현
+true,1720,타일 코드
+true,1727,커플 만들기
+true,1734,교통 체계
+true,1741,반 나누기
+true,1753,최단경로
+true,1756,피자 굽기
+true,1759,암호 만들기
+true,1761,정점들의 거리
+true,1769,3의 배수
+true,1780,종이의 개수
+true,1783,병든 나이트
+true,1787,문자열의 주기 예측
+true,1806,부분합
+true,1866,택배
+true,1890,점프
+true,1909,냄새 싫어
+true,1912,연속합
+true,1915,가장 큰 정사각형
+true,1916,최소비용 구하기
+true,1920,수 찾기
+true,1932,정수 삼각형
+true,1937,욕심쟁이 판다
+true,1947,선물 전달
+true,1949,우수 마을
+true,1967,트리의 지름
+true,1976,여행 가자
+true,1979,극적인 곱셈
+true,1987,알파벳
+true,1991,트리 순회
+true,1992,쿼드트리
+true,2003,수들의 합 2
+true,2011,암호코드
+true,2042,구간 합 구하기
+true,2089,-2진수
+true,2098,외판원 순회
+true,2133,타일 채우기
+true,2138,전구와 스위치
+true,2150,Strongly Connected Component
+true,2153,소수 단어
+true,2156,포도주 시식
+true,2163,초콜릿 자르기
+true,2167,2차원 배열의 합
+true,2178,미로 탐색
+true,2188,축사 배정
+true,2213,트리의 독립집합
+true,2225,합분해
+true,2228,구간 나누기
+true,2231,분해합
+true,2240,자두나무
+true,2293,동전 1
+true,2294,동전 2
+true,2357,최솟값과 최댓값
+true,2417,정수 제곱근
+true,2419,사수아탕
+true,2438,별 찍기 - 1
+true,2447,별 찍기 - 10
+true,2454,트리 분할
+true,2463,비용
+true,2466,책장
+true,2470,두 용액
+true,2473,세 용액
+true,2480,주사위 세개
+true,2491,수열
+true,2495,연속구간
+true,2499,의좋은 형제
+true,2503,숫자 야구
+true,2507,공주 구하기
+true,2512,예산
+true,2515,전시장
+true,2517,달리기
+true,2526,싸이클
+true,2529,부등호
+true,2531,회전 초밥
+true,2532,먹이사슬
+true,2534,카드 배열
+true,2535,아시아 정보올림피아드
+true,2557,Hello World
+true,2568,전깃줄 - 2
+true,2570,비숍2
+true,2579,계단 오르기
+true,2591,숫자카드
+true,2606,바이러스
+true,2609,최대공약수와 최소공배수
+true,2610,회의준비
+true,2629,양팔저울
+true,2636,치즈
+true,2643,색종이 올려 놓기
+true,2655,가장높은탑쌓기
+true,2667,단지번호붙이기
+true,2670,연속부분최대곱
+true,2673,교차하지 않는 원의 현들의 최대집합
+true,2738,행렬 덧셈
+true,2741,N 찍기
+true,2747,피보나치 수
+true,2750,수 정렬하기
+true,2751,수 정렬하기 2
+true,2777,숫자 놀이
+true,2805,나무 자르기
+true,2806,DNA 발견
+true,2814,최소인수
+true,2820,자동차 공장
+true,2855,흥미로운 수열
+true,2887,행성 터널
+true,2899,구슬 없애기
+true,2900,프로그램
+true,2903,중앙 이동 알고리즘
+true,2904,수학은 너무 쉬워
+true,2905,홍준이와 울타리
+true,2909,캔디 구매
+true,2910,빈도 정렬
+true,2911,전화 복구
+true,2912,백설공주와 난쟁이
+true,2916,자와 각도기
+true,2917,늑대 사냥꾼
+true,2922,즐거운 단어
+true,2923,숫자 게임
+true,2924,천재
+true,2984,고속도로
+true,2999,비밀 이메일
+true,3002,아날로그 다이얼
+true,3034,앵그리 창영
+true,3043,장난감 탱크
+true,3044,자전거 경주 준비하기
+true,3176,도로 네트워크
+true,3319,전령들
+true,3350,Candy Machine
+true,3474,교수가 된 현우
+true,3653,영화 수집
+true,4002,닌자배치
+true,4008,특공대
+true,4013,ATM
+true,4198,열차정렬
+true,4299,AFC 윔블던
+true,4305,성격 진단 테스트
+true,4963,섬의 개수
+true,5025,낙서
+true,5554,심부름 가는 길
+true,5557,1학년
+true,5567,결혼식
+true,5679,Hailstone Sequences
+true,5721,사탕 줍기 대회
+true,5820,경주
+true,6086,최대 유량
+true,6118,숨바꼭질
+true,6198,옥상 정원 꾸미기
+true,6374,To the Max
+true,6549,히스토그램에서 가장 큰 직사각형
+true,6987,월드컵
+true,7453,합이 0인 네 정수
+true,7469,K번째 수
+true,7578,공장
+true,7611,Watching
+true,8129,The Invasion
+true,8170,Pebbles
+true,8172,Elephants
+true,8201,Pilots
+true,8217,유성
+true,8876,바자와 샤자
+true,8907,네온 사인
+true,8983,사냥꾼
+true,8987,수족관 3
+true,9012,괄호
+true,9095,"1, 2, 3 더하기"
+true,9251,LCS
+true,9461,파도반 수열
+true,9465,스티커
+true,9521,색칠 공부
+true,9660,돌 게임 6
+true,9866,Vacation Planning
+true,9875,Cow Curling
+true,9879,Cross Country Skiing
+true,9935,문자열 폭발
+true,10019,Sabotage
+true,10020,Counting Friends
+true,10067,수열 나누기
+true,10070,벽
+true,10075,친구
+true,10076,휴가
+true,10090,Counting Inversions
+true,10160,암호
+true,10167,금광
+true,10211,Maximum Subarray
+true,10254,고속도로
+true,10264,Particle Swapping
+true,10539,수빈이와 수열
+true,10799,쇠막대기
+true,10806,공중도시
+true,10814,나이순 정렬
+true,10819,차이를 최대로
+true,10822,더하기
+true,10825,국영수
+true,10844,쉬운 계단 수
+true,10846,발리의 조각상
+true,10847,자카르타의 마천루
+true,10868,최솟값
+true,10942,팰린드롬?
+true,10986,나머지 합
+true,10989,수 정렬하기 3
+true,10999,구간 합 구하기 2
+true,11001,김치
+true,11003,최솟값 찾기
+true,11049,행렬 곱셈 순서
+true,11053,가장 긴 증가하는 부분 수열
+true,11054,가장 긴 바이토닉 부분 수열
+true,11055,가장 큰 증가 부분 수열
+true,11057,오르막 수
+true,11066,파일 합치기
+true,11266,단절점
+true,11375,열혈강호
+true,11400,단절선
+true,11404,플로이드
+true,11437,LCA
+true,11438,LCA 2
+true,11505,구간 곱 구하기
+true,11650,좌표 정렬하기
+true,11658,구간 합 구하기 3
+true,11660,구간 합 구하기 5
+true,11722,가장 긴 감소하는 부분 수열
+true,11724,연결 요소의 개수
+true,11726,2×n 타일링
+true,11727,2×n 타일링 2
+true,11729,하노이 탑 이동 순서
+true,11812,K진 트리
+true,11877,홍수
+true,11932,트리와 K번째 수
+true,11942,고려대는 사랑입니다
+true,11943,파일 옮기기
+true,11944,NN
+true,11960,Max Flow
+true,11961,High Card Low Card (Platinum)
+true,11962,Counting Haybales
+true,11979,Fort Moo
+true,11990,Load Balancing (Platinum)
+true,11991,Fenced In (Platinum)
+true,11992,Circular Barn (Platinum)
+true,12008,262144
+true,12013,248 게임
+true,12015,가장 긴 증가하는 부분 수열 2
+true,12096,
+true,12166,Standing Ovation (Small)
+true,12167,Standing Ovation (Large)
+true,12168,Infinite House of Pancakes (Small)
+true,12169,Infinite House of Pancakes (Large)
+true,12749,Bosses
+true,12858,Range GCD
+true,13208,승현이와 승현이
+true,13209,검역소
+true,13263,나무 자르기
+true,13308,주유소
+true,13309,트리
+true,13334,철로
+true,13460,구슬 탈출 2
+true,13510,트리와 쿼리 1
+true,13512,트리와 쿼리 3
+true,13514,트리와 쿼리 5
+true,13537,수열과 쿼리 1
+true,13538,XOR 쿼리
+true,13544,수열과 쿼리 3
+true,13547,수열과 쿼리 5
+true,13548,수열과 쿼리 6
+true,13876,Kill the Werewolf
+true,14165,Team Building
+true,14257,XOR 방정식
+true,14504,수열과 쿼리 18
+true,14517,팰린드롬 개수 구하기 (Large)
+true,14588,Line Friends (Small)
+true,14589,Line Friends (Large)
+true,14603,소금과 후추 (Large)
+true,14675,단절점과 단절선
+true,14701,셔틀버스
+true,14797,Alphabet Cake (Small)
+true,14798,Alphabet Cake (Large)
+true,14799,Ratatouille (Small)
+true,14800,Ratatouille (Large)
+true,14852,타일 채우기 3
+true,14868,문명
+true,14897,서로 다른 수와 쿼리 1
+true,14898,서로 다른 수와 쿼리 2
+true,15247,Sure Bet
+true,15354,Aron
+true,15489,파스칼 삼각형
+true,15496,Mate
+true,15502,K-균등 문자열
+true,15504,프로그래밍 대결
+true,15553,난로
+true,15554,전시회
+true,15588,Stamp Painting
+true,15589,Lifeguards (Silver)
+true,15590,Rental Service
+true,15591,MooTube (Silver)
+true,15748,Rest Stops
+true,15749,Snow Boots
+true,15802,타노스
+true,15977,조화로운 행렬
+true,15979,스승님 찾기
+true,16114,화살표 연산자
+true,16157,블로그
+true,16193,차이를 최대로 2
+true,16357,Circuits
+true,16358,Cosmetic Survey
+true,16361,LED
+true,16429,2018 빼빼로 데이 이벤트 겸 스타트링크 홍보
+true,16430,제리와 톰
+true,16431,베시와 데이지
+true,16432,떡장수와 호랑이
+true,16433,주디와 당근농장
+true,16435,스네이크버드
+true,16760,Balance Beam
+true,16761,Sort It Out
+true,16762,The Cow Gathering
+true,16765,Teamwork
+true,16903,수열과 쿼리 20
+true,16910,mex와 쿼리
+true,16951,블록 놀이
+true,16981,Exhibition
+true,17018,Redistricting
+true,17030,Cow Dating
+true,17124,두 개의 배열
+true,17193,I Would Walk 500 Miles
+true,17221,인재야 머쉬맘 잡았어?
+true,17260,계곡이 넘쳐흘러
+true,17398,통신망 분할
+true,17399,트리의 외심
+true,17400,깃발춤
+true,17410,수열과 쿼리 1.5
+true,17429,국제 메시 기구
+true,17469,트리의 색깔과 쿼리
+true,17522,Canal
+true,17524,Dryer
+true,17526,Star Trek
+true,17528,Two Machines
+true,17624,검은 돌
+true,17677,케이크 3
+true,17839,Baba is Rabbit
+true,17969,Gene Tree
+true,17970,Islands
+true,17971,Ladder Game
+true,17974,Same Color
+true,17975,Strike Zone
+true,18253,최단경로와 쿼리
+true,18259,Greedy Pie Eaters
+true,18260,Bessie's Snow Cow
+true,18262,Milk Pumping
+true,18263,Milk Visits
+true,18264,Moortal Cowmbat
+true,18313,Cave Paintings
+true,18314,Non-Decreasing Subsequences
+true,18315,Falling Portals
+true,18373,N!!!...! mod P
+true,18422,Emacs
+true,18423,Političari
+true,18425,Putovanje
+true,18431,Just Long Neckties
+true,18512,점프 점프
+true,18777,Delegation (Platinum)
+true,18780,Timeline
+true,18781,Help Yourself (Gold)
+true,18782,Delegation (Gold)
+true,18798,OR과 쿼리
+true,18829,0초 후에 제출할 수 있습니다.
+true,18838,가장 긴 증가하는 부분 수열 k
+true,18858,훈련소로 가는 날
+true,18859,부모님께 큰절 하고
+true,18866,젊은 날의 생이여
+true,18867,편지 꼭 해다오
+true,18937,왕들의 외나무다리 돌게임
+true,18944,Non-Decreasing Subarray Game
+true,19547,애완 트리
+false,18827,연속합 2147483647

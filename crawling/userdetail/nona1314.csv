@@ -1,0 +1,433 @@
+﻿정답여부,문제번호,문제이름
+true,1000,A+B
+true,1001,A-B
+true,1002,터렛
+true,1003,피보나치 함수
+true,1004,어린 왕자
+true,1008,A/B
+true,1009,분산처리
+true,1010,다리 놓기
+true,1026,보물
+true,1031,스타 대결
+true,1032,명령 프롬프트
+true,1037,약수
+true,1044,팀 선발
+true,1100,하얀 칸
+true,1110,더하기 사이클
+true,1146,지그재그 서기
+true,1149,RGB거리
+true,1152,단어의 개수
+true,1157,단어 공부
+true,1159,농구 경기
+true,1161,버스
+true,1184,귀농
+true,1188,음식 평론가
+true,1197,최소 스패닝 트리
+true,1199,오일러 회로
+true,1201,NMK
+true,1202,보석 도둑
+true,1237,정ㅋ벅ㅋ
+true,1254,팰린드롬 만들기
+true,1260,DFS와 BFS
+true,1315,RPG
+true,1365,꼬인 전깃줄
+true,1373,2진수 8진수
+true,1467,수 지우기
+true,1504,특정한 최단 경로
+true,1506,경찰서
+true,1550,16진수
+true,1559,놀라운 미로
+true,1562,계단 수
+true,1585,경찰
+true,1673,치킨 쿠폰
+true,1680,쓰레기 수거
+true,1707,이분 그래프
+true,1735,분수 합
+true,1789,수들의 합
+true,1793,타일링
+true,1807,척 노리스
+true,1813,마지막 한마디
+true,1866,택배
+true,1871,좋은 자동차 번호판
+true,1876,튕기는 볼링공
+true,1893,시저 암호
+true,1896,파급효과
+true,1901,논리식
+true,1913,달팽이
+true,1920,수 찾기
+true,1922,네트워크 연결
+true,1924,2007년
+true,1934,최소공배수
+true,1955,수식 표현
+true,1983,숫자 박스
+true,1990,소수인팰린드롬
+true,1992,쿼드트리
+true,2010,플러그
+true,2043,수 묶기
+true,2075,N번째 큰 수
+true,2098,외판원 순회
+true,2099,The game of death
+true,2133,타일 채우기
+true,2156,포도주 시식
+true,2157,여행
+true,2167,2차원 배열의 합
+true,2171,직사각형의 개수
+true,2178,미로 탐색
+true,2193,이친수
+true,2207,가위바위보
+true,2213,트리의 독립집합
+true,2281,데스노트
+true,2293,동전 1
+true,2294,동전 2
+true,2315,가로등 끄기
+true,2316,도시 왕복하기 2
+true,2331,반복수열
+true,2342,Dance Dance Revolution
+true,2370,시장 선거 포스터
+true,2420,사파리월드
+true,2422,한윤정이 이탈리아에 가서 아이스크림을 사먹는데
+true,2438,별 찍기 - 1
+true,2439,별 찍기 - 2
+true,2440,별 찍기 - 3
+true,2441,별 찍기 - 4
+true,2478,자물쇠
+true,2496,금강석
+true,2511,카드놀이
+true,2512,예산
+true,2513,통학버스
+true,2515,전시장
+true,2532,먹이사슬
+true,2557,Hello World
+true,2579,계단 오르기
+true,2596,비밀편지
+true,2597,줄자접기
+true,2598,기둥만들기
+true,2618,경찰차
+true,2628,종이자르기
+true,2661,좋은수열
+true,2662,기업투자
+true,2666,벽장문의 이동
+true,2667,단지번호붙이기
+true,2671,잠수함식별
+true,2672,여러 직사각형의 전체 면적 구하기
+true,2731,1379와 세제곱
+true,2737,연속 합
+true,2739,구구단
+true,2741,N 찍기
+true,2742,기찍 N
+true,2747,피보나치 수
+true,2748,피보나치 수 2
+true,2787,흔한 수열 문제
+true,2830,행성 X3
+true,2839,설탕 배달
+true,2840,행운의 바퀴
+true,2841,외계인의 기타 연주
+true,2842,집배원 한상덕
+true,2858,기숙사 바닥
+true,2869,달팽이는 올라가고 싶다
+true,2916,자와 각도기
+true,3190,뱀
+true,3648,아이돌
+true,3683,고양이와 개
+true,3687,성냥개비
+true,3758,KCPC
+true,4150,피보나치 수
+true,4179,불!
+true,4243,보안 업체
+true,4256,트리
+true,4461,뱀파이어 김상근 백작
+true,4882,정규형
+true,4895,Stock Chase
+true,4999,아!
+true,5002,도어맨
+true,5052,전화번호 목록
+true,5054,주차의 신
+true,5211,가단조와 다장조
+true,5212,지구 온난화
+true,5213,과외맨
+true,5218,알파벳 거리
+true,5419,북서풍
+true,5427,불
+true,5430,AC
+true,5582,공통 부분 문자열
+true,5585,거스름돈
+true,5624,좋은 수
+true,5635,생일
+true,5636,소수 부분 문자열
+true,5637,가장 긴 단어
+true,5647,연속 합
+true,5724,파인만
+true,6064,카잉 달력
+true,6086,최대 유량
+true,6246,풍선 놀이
+true,7287,등록
+true,7343,달력 놀이
+true,7346,유전자 함수
+true,7567,그릇
+true,7568,덩치
+true,7569,토마토
+true,7570,줄 세우기
+true,7571,점 모으기
+true,7572,간지(干支)
+true,7576,토마토
+true,7662,이중 우선순위 큐
+true,7812,중앙 트리
+true,7983,내일 할거야
+true,8393,합
+true,8872,빌라봉
+true,8890,Critical 3-Path
+true,8893,Pandora
+true,8896,가위 바위 보
+true,8911,거북이
+true,8913,문자열 뽑기
+true,8980,택배
+true,8983,사냥꾼
+true,8986,전봇대
+true,8992,집기 게임
+true,9007,카누 선수
+true,9009,피보나치
+true,9011,순서
+true,9012,괄호
+true,9015,정사각형
+true,9047,6174
+true,9080,PC방 요금
+true,9082,지뢰찾기
+true,9083,셔틀버스
+true,9093,단어 뒤집기
+true,9094,수학적 호기심
+true,9095,"1, 2, 3 더하기"
+true,9436,Round Robin
+true,9437,사라진 페이지 찾기
+true,9440,숫자 더하기
+true,9441,Cash Cow
+true,9442,Sort Me
+true,9461,파도반 수열
+true,9465,스티커
+true,9468,Islands in the Data Stream
+true,9469,폰 노이만
+true,9470,Strahler 순서
+true,9471,피사노 주기
+true,9472,알고리즘 기말고사
+true,9474,삼각 분할과 삼각형
+true,9498,시험 성적
+true,9501,꿍의 우주여행
+true,9505,엔터프라이즈호 탈출
+true,9506,약수들의 합
+true,9507,Generations of Tribbles
+true,9512,Languages
+true,9517,아이 러브 크로아티아
+true,9518,로마 카톨릭 미사
+true,9536,여우는 어떻게 울지?
+true,9546,3000번 버스
+true,9547,대통령 선거
+true,9548,무제
+true,9549,암호화된 비밀번호
+true,9550,아이들은 사탕을 좋아해
+true,9584,Fraud Busters
+true,9941,One Move from Towers of Hanoi
+true,9942,하노이의 네 탑
+true,9945,Centroid of Point Masses
+true,9946,단어 퍼즐
+true,9987,포켓몬 마스터
+true,10039,평균 점수
+true,10162,전자레인지
+true,10163,색종이
+true,10164,격자상의 경로
+true,10165,버스 노선
+true,10166,관중석
+true,10167,금광
+true,10211,Maximum Subarray
+true,10212,Mystery
+true,10214,Baseball
+true,10216,Count Circle Groups
+true,10217,KCM Travel
+true,10218,Maze
+true,10219,Meats On The Grill
+true,10244,최대공약수들
+true,10246,부동산 경매
+true,10249,Two Knight’s Poem
+true,10250,ACM 호텔
+true,10251,운전 면허 시험
+true,10252,그리드 그래프
+true,10253,헨리
+true,10255,교차점
+true,10258,스위치 배열
+true,10262,주사위 게임
+true,10263,Opening Ceremony
+true,10266,시계 사진들
+true,10269,Train Passengers
+true,10320,Button Bashing
+true,10325,Growling Gears
+true,10328,Jury Jeopardy
+true,10424,알고리즘 기말고사
+true,10430,나머지
+true,10453,문자열 변환
+true,10472,십자뒤집기
+true,10480,Oddities
+true,10481,Ternarian Weights
+true,10482,Goldbach’s Conjecture
+true,10484,Erratic Ants
+true,10487,4 thought
+true,10489,Even Up Solitaire
+true,10722,Binary Mobile Tree
+true,10773,제로
+true,10800,컬러볼
+true,10804,카드 역배치
+true,10805,L 모양의 종이 자르기
+true,10817,세 수
+true,10869,사칙연산
+true,10871,X보다 작은 수
+true,10874,이교수님의 시험
+true,10875,뱀
+true,10878,How many binary sequences?
+true,10879,Speak your mind!
+true,10881,프로도의 선물 포장
+true,10882,International meeting
+true,10885,수열의 장인
+true,10943,랜덤 게임~
+true,10998,A×B
+true,11003,최솟값 찾기
+true,11009,Drinks
+true,11041,500-yen Saving
+true,11052,카드 구매하기
+true,11062,카드 게임
+true,11066,파일 합치기
+true,11067,모노톤길
+true,11068,회문인 수
+true,11070,피타고라스 기댓값
+true,11082,소수를 분수로
+true,11084,나이트의 염탐
+true,11085,군사 이동
+true,11087,Bobby’s Bet
+true,11088,Cantina of Babel
+true,11090,Cutting Brownies
+true,11096,UnDetected
+true,11117,Letter Cookies
+true,11149,Decode the Message
+true,11151,Civilization
+true,11158,Angry Grammar Nazi
+true,11161,Negative People in Da House
+true,11164,Traveling Cellsperson
+true,11167,C.S.I.: P15
+true,11170,0의 개수
+true,11172,Election
+true,11176,In the Shower
+true,11277,2-SAT - 1
+true,11365,!밀비 급일
+true,11458,The Fox and the Owl
+true,11461,Lunch Menu
+true,11462,The Owl and the Fox
+true,11493,동전 교환
+true,11495,격자 0 만들기
+true,11497,통나무 건너뛰기
+true,11501,주식
+true,11502,세 개의 소수 문제
+true,11504,돌려 돌려 돌림판!
+true,11522,Sum Kind of Problem
+true,11523,Running Steps
+true,11524,Immortal Porpoises
+true,11525,Farey Sequence Length
+true,11526,A Rational Sequence
+true,11528,Compositions
+true,11557,Yangjojang of The Year
+true,11561,징검다리
+true,11587,MARKO
+true,11588,GEPPETTO
+true,11589,ARTUR
+true,11666,워크스테이션 배정
+true,11674,Identifying Map Tiles
+true,11675,Jumbled Communication
+true,11676,Kitchen Combinatorics
+true,11718,그대로 출력하기
+true,11735,정산소
+true,11739,Easy Problemset
+true,11741,Generators
+true,11747,수열
+true,11748,Squeeze the Cylinders
+true,11781,퇴근 시간
+true,11784,Hex Code
+true,11785,Programming Contest Strategy
+true,11792,Tom and Jerry
+true,11795,Donation Packaging
+true,11973,Angry Cows (Silver)
+true,11975,Build Gates
+true,11976,Promotion Counting
+true,11977,Angry Cows (Bronze)
+true,12100,2048 (Easy)
+true,12757,전설의 JBNU
+true,12758,천상용섬
+true,12764,싸지방에 간 준하
+true,12833,XORXORXOR
+true,12834,주간 미팅
+true,12843,복수전공
+true,12846,무서운 아르바이트
+true,12849,본대 산책
+true,13147,Dwarves
+true,13150,Matrix Cypher
+true,13151,Model Railroad
+true,13153,Formula
+true,13155,Common Knowledge
+true,13156,Selling CPUs
+true,13157,Routing
+true,13158,Maze
+true,13201,즉흥 여행
+true,13202,피자 배치
+true,13204,표본의 수 구하기
+true,13206,Professor KCM
+true,13209,검역소
+true,13301,타일 장식물
+true,13325,이진 트리
+true,13333,Q-인덱스
+true,13334,철로
+true,13335,트럭
+true,13413,오셀로 재배치
+true,13414,수강신청
+true,13416,주식 투자
+true,13417,카드 문자열
+true,13419,탕수육
+true,13420,사칙연산
+true,13421,국민 랜드
+true,13422,도둑
+true,13458,시험 감독
+true,13460,구슬 탈출 2
+true,14499,주사위 굴리기
+true,14500,테트로미노
+true,14501,퇴사
+true,14502,연구소
+true,14503,로봇 청소기
+true,14610,좋은 대회
+true,14611,월요병
+true,14888,연산자 끼워넣기
+true,14889,스타트와 링크
+true,14890,경사로
+true,14891,톱니바퀴
+true,15317,동방 보수
+true,15318,새로운 수열
+true,15319,동혁이의 생일선물
+false,1005,ACM Craft
+false,1212,8진수 2진수
+false,1624,데크 소트
+false,2470,두 용액
+false,3654,L퍼즐
+false,4013,ATM
+false,5631,방사능
+false,5646,트리 경로
+false,7573,고기잡이
+false,9275,토끼와 상근
+false,9475,파스칼 제곱
+false,9580,Bonus Cards
+false,9999,구구
+false,10213,XH Company
+false,10806,공중도시
+false,10944,랜덤 게임~~
+false,10945,랜덤 게임~~~
+false,11454,Song Titles
+false,11740,Froggy Ford
+false,11745,King’s Inspection
+false,11974,Subsequences Summing to Sevens
+false,11978,Mowing the Field (Bronze)
+false,12094,2048 (Hard)
+false,13199,치킨 먹고 싶다
+false,13262,수열의 OR 점수
+false,13328,Message Passing
+false,15802,타노스

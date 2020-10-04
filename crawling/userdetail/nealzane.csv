@@ -1,0 +1,507 @@
+﻿정답여부,문제번호,문제이름
+true,10431,줄세우기
+true,10432,데이터 스트림의 섬
+true,10433,부동소수점 형식 변환
+true,10434,행복한 소수
+true,10435,만칼라
+true,10436,무한 유리수 트리
+true,10437,자라나는 직교 나선
+true,10438,페리 수열의 합
+true,10439,여왕님의 테라스
+true,10459,Compressed Words?
+true,10460,Java vs. Scheme Smackdown
+true,10463,Repel
+true,10759,팰린드롬 경로 3
+true,10761,Bessie Goes Moo
+true,10762,Trapped in the Haybales
+true,10763,Bessie's Birthday Buffet
+true,10764,Moocryption
+true,10765,Bessie Gets Even
+true,10766,Trapped in the Haybales
+true,10767,Palindromic Paths
+true,10849,A Journey to Greece
+true,10850,Bounty Hunter II
+true,10851,Cake
+true,10852,Carpets
+true,10853,Change of Scenery
+true,10856,Legacy Code
+true,10857,Milling machines
+true,11247,Atomic Computer
+true,11248,Bond Tour
+true,11249,Chasing
+true,11250,Design A Tree
+true,11251,Romance of The Three Kingdom
+true,11252,Finding something
+true,11253,Goods Market
+true,11254,Hydraulic Arm
+true,11255,ITAI Virus
+true,11256,사탕
+true,11267,Adjoin the Networks
+true,11268,Bell Ringing
+true,11269,Cryptographer’s Conundrum
+true,11270,Disastrous Downtime
+true,11271,Entertainment Box
+true,11272,Floppy Music
+true,11273,Goblin Garden Guards
+true,11276,Just a Quiz
+true,11456,Chasing the Cheetahs
+true,11457,Falcon Dive
+true,11459,Feeding the Herrings
+true,11460,Jumping Yoshi
+true,11461,Lunch Menu
+true,11462,The Owl and the Fox
+true,11522,Sum Kind of Problem
+true,11523,Running Steps
+true,11524,Immortal Porpoises
+true,11525,Farey Sequence Length
+true,11526,A Rational Sequence
+true,11527,Robots
+true,11528,Compositions
+true,11529,Brocard Point of a Triangle
+true,11530,RATS
+true,11759,Bottled-Up Feelings
+true,11760,Mastering Mastermind
+true,11761,Shuffling Along
+true,11762,A Towering Problem
+true,11765,KenKen You Do It?
+true,11766,Rings
+true,11767,Squawk Virus
+true,11768,Transportation Delegation
+true,11769,Tray Bien
+true,11770,Trick Shot
+true,11771,What’s on the Grille?
+true,11973,Angry Cows (Silver)
+true,11974,Subsequences Summing to Sevens
+true,11975,Build Gates
+true,11976,Promotion Counting
+true,11977,Angry Cows (Bronze)
+true,11978,Mowing the Field (Bronze)
+true,11982,Angry Cows (Gold)
+true,11983,Radio Contact
+true,11984,Lights Out (Gold)
+true,12002,Field Reduction (Silver)
+true,12003,Diamond Collector (Silver)
+true,12004,Closing the Farm (Silver)
+true,12005,Diamond Collector (Bronze)
+true,12006,Bull in a China Shop (Bronze)
+true,12007,Field Reduction (Bronze)
+true,12011,Splitting the Field
+true,12012,Closing the Farm (Gold)
+true,12013,248 게임
+true,12767,Ceiling Function
+true,12768,Clock Breaking
+true,12769,영원한 젊음
+true,12775,String Theory
+true,13147,Dwarves
+true,13148,Correcting Cheeseburgers
+true,13149,Knapsack in a Globalized World
+true,13150,Matrix Cypher
+true,13151,Model Railroad
+true,13152,One-Way Roads
+true,13153,Formula
+true,13154,Celestial Map
+true,13155,Common Knowledge
+true,13156,Selling CPUs
+true,13157,Routing
+true,13158,Maze
+true,13740,Windy Path
+true,13741,Alphabet
+true,13743,Enclosure
+true,13744,Illumination
+true,13746,Islands
+true,13747,Paint
+true,13749,Water
+true,13750,Zigzag
+true,13751,Barbells
+true,13754,Mismatched Socks
+true,13877,이건 무슨 진법이지?
+true,13878,FBI Universal Control Numbers
+true,13879,m-ary Partitions
+true,13880,A Rational Sequence (Take 3)
+true,13881,Permutation Descent Counts
+true,13884,삭삽 정렬
+true,13886,Smoothed Gardens
+true,13889,Average
+true,13890,Big Bang
+true,13893,Dictionary Game
+true,13894,Binary Strings
+true,13895,Witcher Potion
+true,13896,Sky Tax
+true,13899,Coordinates
+true,13915,현수의 열기구 교실
+true,13916,Cable Connection
+true,13920,Orchard Division
+true,13923,오버워치 월드컵
+true,13945,Appearance Analysis
+true,13957,Within Arm's Reach
+true,13959,Candle Box
+true,13962,Performance Review
+true,13964,Pascal's Hyper-Pyramids
+true,13967,Balls and Needles
+true,13978,Cameras
+true,13979,Contest Strategy
+true,13980,Maximum Islands
+true,13981,Postman
+true,13982,Shopping
+true,13983,Tournament Wins
+true,13984,Contest Score
+true,13985,Equality
+true,13986,Gravity
+true,13987,Six Sides
+true,14418,Three Square
+true,14978,Pond Cascade
+true,14983,Ice cream samples
+true,14984,Dark Ride with Monsters
+true,14988,Abandoned Animal
+true,14989,Booming Business
+true,14990,Crowd Control
+true,14991,Disastrous Doubling
+true,14992,Envious Exponents
+true,14993,Flatland Fidget Spinner
+true,14994,Ghostbusters
+true,14995,Horror Film Night
+true,14996,Intelligence Infection
+true,14997,Journal Editing
+true,14998,Knight’s Marathon
+true,15000,CAPS
+true,15001,Frog Leaps
+true,15002,Soccer Skills
+true,15003,Amsterdam Distance
+true,15004,Bearly Made It
+true,15005,Collatz Conjecture
+true,15006,Detour
+true,15007,Easter Eggs
+true,15008,Falling Apart
+true,15009,Going Dutch
+true,15010,Hoarse Horses
+true,15011,Irrational Division
+true,15012,Jumping Choreography
+true,15013,King of the Waves
+true,15014,Lemonade Trade
+true,15015,Manhattan Mornings
+true,15017,Best Relay Team
+true,15019,Distinctive Character
+true,15020,Emptying the Baltic
+true,15022,Galactic Collegiate Programming Contest
+true,15024,Import Spaghetti
+true,15025,Judging Moose
+true,15027,Alien Sunset
+true,15028,Breaking Biscuits
+true,15029,Cued In
+true,15030,Deranging Hat
+true,15031,Education
+true,15032,Flipping Coins
+true,15034,Hiker Safety
+true,15035,I Work All Day
+true,15036,Just A Minim
+true,15037,Knightsbridge Rises
+true,15038,Lounge Lizards
+true,15104,Odd Palindrome
+true,15106,Fear Factoring
+true,15107,Rainbow Roads
+true,15108,Straight Shot
+true,15110,Security Badge
+true,15113,Grid Coloring
+true,15115,Delayed Work
+true,15117,Latin Squares
+true,15118,Halfway
+true,15119,Purple Rain
+true,15120,Unloaded Die
+true,15121,Star Arrangements
+true,15122,Forbidden Zero
+true,15295,Chanukah Challenge
+true,15296,Sum Squared Digits Function
+true,15298,Pavers
+true,15299,Best Rational Approximation
+true,15300,The Components Game
+true,15302,Triangle to Hexagon
+true,15329,Secret of Chocolate Poles
+true,15330,Parallel Lines
+true,15405,Menu Tour
+true,15406,Check the Check
+true,15407,How to Eat at a Buffet
+true,15408,French Dinner
+true,15409,Majestic Gourmet University
+true,15410,Cakey McCakeFace
+true,15412,Macarons
+true,15414,Ingredients
+true,15415,Shattered Cake
+true,15419,Frosting on the Cake
+true,15420,Blowing Candles
+true,15421,Birthday Cake
+true,15422,Bumped!
+true,15423,Canonical Coin Systems
+true,15425,Company Picnic
+true,15426,GlitchBot
+true,15427,Greeting Card
+true,15428,Imperfect GPS
+true,15429,Odd Gnome
+true,15430,Progressive Scramble
+true,15431,Space Probe
+true,15432,Suspension Bridges
+true,15433,Umbral Decoding
+true,15434,Rhombinoes
+true,15435,Enumerating Brackets
+true,15436,Wizard of Odds
+true,15438,Planet Destruction
+true,15444,Vera and ABCDE
+true,15446,Vera and Canada Day
+true,15447,Vera and Dogs
+true,15449,Art
+true,15450,Biology
+true,15451,Computer Science
+true,15452,Drama
+true,15453,English
+true,15458,Barn Painting
+true,15459,Haybale Feast
+true,15460,My Cow Ate My Homework
+true,15462,The Bovine Shuffle
+true,15463,Blocked Billboard
+true,15464,The Bovine Shuffle
+true,15465,Milk Measurement
+true,15586,MooTube (Gold)
+true,15587,Cow at Large (Gold)
+true,15588,Stamp Painting
+true,15590,Rental Service
+true,15591,MooTube (Silver)
+true,15592,Blocked Billboard II
+true,15593,Lifeguards (Bronze)
+true,15594,Out of Place
+true,15610,Abbey Courtyard
+true,15612,Cube Bits
+true,15745,Snow Boots
+true,15746,Directory Traversal
+true,15747,Taming the Herd
+true,15748,Rest Stops
+true,15749,Snow Boots
+true,15750,Teleportation
+true,15751,Teleportation
+true,15752,Hoofball
+true,15753,Taming the Herd
+true,15757,Out of Sorts
+true,15758,Milking Order
+true,15760,Out of Sorts
+true,15761,Lemonade Line
+true,15762,Multiplayer Moo
+true,15763,Team Tic Tac Toe
+true,15764,Milking Order
+true,15765,Family Tree
+true,16053,Joyride
+true,16054,Pants On Fire
+true,16058,Ratatöskr
+true,16059,Überwatch
+true,16061,You Are Fired!
+true,16293,Appalling Architecture
+true,16294,Bee Problem
+true,16295,Criss-Cross Cables
+true,16296,Daily Division
+true,16297,Eating Everything Efficiently
+true,16300,H to O
+true,16301,Isomorphic Inversion
+true,16302,Jurassic Jigsaw
+true,16304,A Prize No One Can Win
+true,16305,Birthday Boy
+true,16306,Cardboard Container
+true,16309,Financial Planning
+true,16310,Game Night
+true,16311,Harry the Hamster
+true,16313,Janitor Troubles
+true,16316,Baby Bites
+true,16317,Code Cleanups
+true,16319,Explosion Exploit
+true,16322,House Lawn
+true,16323,Intergalactic Bidding
+true,16324,Jumbled String
+true,16337,Die
+true,16346,Security Guards
+true,16360,Go Latin
+true,16385,Pokemon Go Go
+true,16386,Urban Design
+true,16388,Is-A? Has-A? Who Knowz-A?
+true,16390,Sheba’s Amoebas
+true,16391,Zebras and Ocelots
+true,16392,Racing Around the Alphabet
+true,16393,Lost Map
+true,16405,Treehouses
+true,16406,Exam
+true,16408,Poker Hand
+true,16409,Coprime Integers
+true,16410,Goat Rope
+true,16417,Count the Bits
+true,16419,Knockout
+true,16421,Rectangles
+true,16424,Repeating Goldbachs
+true,16425,Random Index Vectors
+true,16427,Time Limits
+true,16512,Maximum Subarrays
+true,16513,Rational Ratio
+true,16514,Travel the Skies
+true,16515,Euler’s Number
+true,16516,Lipschitz Constant
+true,16517,Tima goes to Xentopia
+true,16519,Other Side
+true,16520,Kaleidoscopic Palindromes
+true,16551,Potato Sacks
+true,16553,Hedwig’s Ladder
+true,16555,What time is it anyway?
+true,16557,The Erdös-Straus Conjecture
+true,16558,Subprime Fibonacci Sequence
+true,16598,Achievements
+true,16600,Contemporary Art
+true,16608,Hard Drive
+true,16609,Inflation
+true,16611,Kleptography
+true,16612,Aligned Typesetting
+true,16613,Bad Keming
+true,16614,Collecting Stars
+true,16615,Dropping Blocks
+true,16617,"Far, Far Away"
+true,16619,Hazardous Driving
+true,16621,Judging Divisionals
+true,16622,Knights and Dragons
+true,16623,Laps
+true,16671,Lazyland
+true,16688,Contest Setting
+true,16689,Liars
+true,16690,Paper Cuts
+true,16691,House Numbers
+true,16692,Greedy Scheduler
+true,16693,Pizza Deal
+true,16696,Clockwork ||ange
+true,16698,Trees Gump
+true,16702,The Silence of the Lamps
+true,16703,Matrice
+true,16764,Cowpatibility
+true,16766,Convention
+true,16767,Convention II
+true,16768,Mooyo Mooyo
+true,16769,Mixing Milk
+true,16770,The Bucket List
+true,16771,Back and Forth
+true,17021,Cow Poetry
+true,17022,Sleepy Cow Sorting
+true,17023,Shortcut
+true,17024,Grass Planting
+true,17025,Icy Perimeter
+true,17026,Mountain View
+true,17027,Shell Game
+true,17028,Sleepy Cow Sorting
+true,17029,Guess the Animal
+true,17034,Dishwashing
+true,17035,Painting the Barn (Gold)
+true,17036,Sleepy Cow Herding (Silver)
+true,17037,Painting the Barn (Silver)
+true,17038,The Great Revegetation (Silver)
+true,17039,Sleepy Cow Herding (Bronze)
+true,17040,The Great Revegetation (Bronze)
+true,17041,Measuring Traffic
+true,17197,Fence Planning
+true,17198,Bucket Brigade
+true,17199,Milk Factory
+true,17542,Architecture
+true,17543,Bracket Sequence
+true,17544,Canyon Crossing
+true,17546,Exits in Excess
+true,17547,Floor Plan
+true,17550,Inquiry I
+true,17552,Knapsack Packing
+true,17553,Lifeguards
+true,17565,Analogue Cluster
+true,17566,Bus Logic
+true,17567,Code Word
+true,17571,Garden Variety Vampire
+true,17572,Hamster Ball
+true,17574,Jackpot
+true,17575,Kings
+true,17576,Last Word
+true,17782,Appeal to the Audience
+true,17787,Find my Family
+true,17794,Automatic Accountant
+true,17795,Ballpark Estimate
+true,17796,Crooked Dealing
+true,17797,Dome Construction
+true,17799,Feeding Seals
+true,17802,Integral Pyramid
+true,17803,Jammed Gym
+true,17805,Low Effort League
+true,17846,Chopping on Line
+true,17847,Diamonds Are for Evers
+true,17848,Flight Turbulence
+true,17849,Hardware Sales
+true,17850,Make America Grade Again
+true,17851,This Problem’s a Slam Dunk
+true,17852,Retribution!
+true,17856,Just Passing Through
+true,17863,FYI
+true,17869,Simple Collatz Sequence
+true,17870,Problematic Public Keys
+true,17871,Integers in Rational Bases
+true,17872,How Many Unicycles in a Wheel?
+true,17873,Regional Team Names
+true,17874,Piece of Cake!
+true,17875,Fantasy Draft
+true,17877,Integer Division
+true,17878,Hogwarts
+true,17880,Typo
+true,17881,The Biggest Triangle
+true,17882,Tired Terry
+true,17883,Watch Later
+true,17884,Lost Lineup
+true,17991,Carryless Square Root
+true,17992,Computer Cache
+true,17994,Swap Free
+true,17997,Jumping Path
+true,17998,Levenshtein Distance
+true,17999,Maze Connect
+true,18000,One of Each
+true,18002,Balanced Animals
+true,18003,Checkerboard
+true,18004,From A to B
+true,18005,Even or Odd?
+true,18006,"Glow, Pixel, Glow!"
+true,18007,Rainbow Strings
+true,18008,ReMorse
+true,18018,Alphabet Animals
+true,18019,Building Boundaries
+true,18020,Cocoa Coalition
+true,18022,Eeny Meeny
+true,18023,Flow Finder
+true,18024,Game of Gnomes
+true,18025,Hot Hike
+true,18026,Incremental Induction
+true,18027,Jealous Youngsters
+true,18028,Keep it Cool
+true,18054,Assessing Genomes
+true,18058,Election Meddling
+true,18062,Insertion Order
+true,18063,Jazz Enthusiast
+true,18085,Firetrucks Are Red
+true,18088,Inverted Deck
+true,18152,Radio Prize
+true,18153,Coloring Contention
+true,18154,Speeding
+true,18155,Issuing Plates
+true,18156,Black and White
+true,18209,Umm Code
+true,18265,MooBuzz
+true,18266,Meetings
+true,18267,Milk Visits
+true,18268,Cow Gymnastics
+true,18269,Where Am I?
+true,18270,Livestock Lineup
+true,18319,Berry Picking
+true,18320,Loan Repayment
+true,18321,Wormhole Sort
+true,18322,Word Processor
+true,18323,Photoshoot
+true,18324,Race
+true,18877,Social Distancing
+false,11764,Delete This!
+false,13734,Buggy Robot
+false,13898,Expected Number of Connected Components
+false,15033,GentleBots
+false,15424,Cat and Mice
+false,15437,Treasure Hunt
+false,15589,Lifeguards (Silver)
+false,15759,Talent Show
+false,17867,Circle Garden
